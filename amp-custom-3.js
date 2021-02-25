@@ -52,7 +52,7 @@ define(['pipAPI', 'https://slwkhan.github.io/ampexample/ampexample-full.js'], fu
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://www.andrewamiles.com/ewExternalFiles'
+			image : 'https://www.andrewamiles.com/files.html'
 		}
 	});
 });
