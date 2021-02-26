@@ -48,7 +48,7 @@ define(['pipAPI', 'https://slwkhan.github.io/ampexample/amp-full-custom.js'], fu
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'n1.jpg'}, {image : 'n2.jpg'}, {image : 'n2.jpg'}]
+			mediaArray : [{image : 'n1.jpg'}, {image : 'n2.jpg'}, {image : 'n3.jpg'}]
 		},
 
 		base_url : {//Where are your images at?
