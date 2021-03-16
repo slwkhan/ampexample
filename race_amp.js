@@ -10,15 +10,15 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'Black people', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'b1.jpg'},
-					{image : 'b2.jpg'},
-					{image : 'b3.jpg'},
-					{image : 'b4.jpg'},
-					{image : 'b5.jpg'},
-					{image : 'b6.jpg'},
-					{image : 'b7.jpg'},
-					{image : 'b8.jpg'},
-					{image : 'b9.jpg'},
+				    {image : 'b01.jpg'},
+					{image : 'b02.jpg'},
+					{image : 'b03.jpg'},
+					{image : 'b04.jpg'},
+					{image : 'b05.jpg'},
+					{image : 'b06.jpg'},
+					{image : 'b07.jpg'},
+					{image : 'b08.jpg'},
+					{image : 'b09.jpg'},
 					{image : 'b10.jpg'},
 					{image : 'b11.jpg'}]
 
@@ -28,15 +28,15 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'White people', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'w1.jpg'},
-					{image : 'w2.jpg'},
-					{image : 'w3.jpg'},
-					{image : 'w4.jpg'},
-					{image : 'w5.jpg'},
-					{image : 'w6.jpg'},
-					{image : 'w7.jpg'},
-					{image : 'w8.jpg'},
-					{image : 'w9.jpg'},
+				    {image : 'w01.jpg'},
+					{image : 'w02.jpg'},
+					{image : 'w03.jpg'},
+					{image : 'w04.jpg'},
+					{image : 'w05.jpg'},
+					{image : 'w06.jpg'},
+					{image : 'w07.jpg'},
+					{image : 'w08.jpg'},
+					{image : 'w09.jpg'},
 					{image : 'w10.jpg'},
 					{image : 'w11.jpg'}]
 			}
@@ -46,7 +46,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'n1.jpg'}, {image : 'n2.jpg'}, {image : 'n3.jpg'}]
+			mediaArray : [{image : 'ampchair.jpg'}, {image : 'amplamp.jpg'}, {image : 'ampumbrella.jpg'}]
 		},
 
 		base_url : {//Where are your images at?
